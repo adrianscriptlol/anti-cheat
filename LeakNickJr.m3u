@@ -12,8 +12,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDoma
 https://a1xs.vip/1000052
 #EXTINF:-1  tvg-name="Nickelodeon UK FHD" tvg-id="NickelodeonHD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png" group-title="ANIME/CARTOONS👽" radio="false",Nickelodeon
 https://a1xs.vip/1000051
-#EXTINF:-1  tvg-name="Nicktoon UK" tvg-id="Nicktoons.uk" tvg-logo="https://i.imgur.com/X3eFHe6.png" group-title="ANIME/CARTOONS👽" radio="false",Nicktoon
-https://a1xs.vip/100054
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/Q6swMsk.png",Disney Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=dash
