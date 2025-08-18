@@ -6,10 +6,13 @@ https://live-pull.w02uat.com/live/LIV734519146523340800.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-name="NickJR" tvg-logo="https://static.wikia.nocookie.net/hexvet/images/7/73/Nick_Jr._2023_logo.png/revision/latest?cb=20240928153500" group-title="Converge", NickJR
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8?fbclid=IwY2xjawLRJj1leHRuA2FlbQIxMQABHsGPURN17QH3-She9jE4kaf46fwJTNSDsCFXgfWv4wrPkJMfumLWAoFzG5AI_aem_iMhuQJ3NMlltYZNEgtt8dQ
 
-#EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/544627ef-b613-4f03-86c9-037e51bd8747/dg81i5p-9a91c59b-1204-45af-bd05-2b80e17ea4b2.png/v1/fill/w_847,h_646/nick_jr__splat_3d_logo_with_2_objects_by_markthenostalgiafan_dg81i5p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ2IiwicGF0aCI6IlwvZlwvNTQ0NjI3ZWYtYjYxMy00ZjAzLTg2YzktMDM3ZTUxYmQ4NzQ3XC9kZzgxaTVwLTlhOTFjNTliLTEyMDQtNDVhZi1iZDA1LTJiODBlMTdlYTRiMi5wbmciLCJ3aWR0aCI6Ijw9ODQ3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QrDR2E_SihXaeqHrYPxnlHesyT1kf2SObY6cdT-jBrY" group-title="Converge", Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" group-title="CARTOONS AND ANIMATIONS"" tvg-logo="https://aqfadtv.xyz/logos/NickJr2023.png" ,Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/9982
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #EXTINF:-1  tvg-name="Nick Jr. UK FHD" tvg-id="Nick.Jr..HD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nick_Jr.png" group-title="ANIME/CARTOONS👽" radio="false",Nick Jr.
 https://a1xs.vip/1000052
