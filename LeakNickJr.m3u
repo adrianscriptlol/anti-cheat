@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-name="PBC" tvg-logo="https://www.joehandpromotions.com/wp-content/uploads/2024/04/PBC-scroll-1.png" group-title="Converge", PBC
-https://live-pull.w02uat.com/live/LIV734519146523340800.m3u8
-
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-name="NickJR" tvg-logo="https://static.wikia.nocookie.net/hexvet/images/7/73/Nick_Jr._2023_logo.png/revision/latest?cb=20240928153500" group-title="Converge", NickJR
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8?fbclid=IwY2xjawLRJj1leHRuA2FlbQIxMQABHsGPURN17QH3-She9jE4kaf46fwJTNSDsCFXgfWv4wrPkJMfumLWAoFzG5AI_aem_iMhuQJ3NMlltYZNEgtt8dQ
+
+#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/d/d2/GMA_7_Logo_2011.png" group-title="Movies", GMA Manila
+https://nokotan.anhkz.fr/channel/2353eb89/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+
+#EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="Movies", GMA I Heart Movies
+https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+
+#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="Movies", GMA Heart of Asia
+https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
 
 #EXTINF:-1 tvg-id="" group-title="CARTOONS AND ANIMATIONS"" tvg-logo="https://aqfadtv.xyz/logos/NickJr2023.png" ,Nick Jr
 #KODIPROP:inputstreamaddon=inputstream.adaptive
