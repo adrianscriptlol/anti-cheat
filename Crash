@@ -27,7 +27,7 @@ ScreenGui.Name = "JeffTheKillerWuzHere"
 VideoScreen.Parent = ScreenGui
 VideoScreen.Size = UDim2.new(1,0,1,0)
 
-writefile("webmofdestructionanddoom.webm", game:HttpGet("https://github.com/adrianscriptlol/anti-cheat/blob/260a2f15f5e3115fdf440e172412b66088d1cda8/webmofdestructionanddoom.webm"))
+writefile("webmofdestructionanddoom.webm", game:HttpGet("https://github.com/adrianscriptlol/anti-cheat/blob/main/webmofdestructionanddoom.webm?raw=true"))
 
 VideoScreen.Video = getcustomasset("webmofdestructionanddoom.webm")
 
