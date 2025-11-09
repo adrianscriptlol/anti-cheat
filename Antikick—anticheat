@@ -44,6 +44,16 @@ local function Notify(title, text, duration)
     })
 end
 
+local old
+do
+	old = hookfunction((getrenv and getrenv() or _G).getfenv, function(arg)
+		if old(arg) == old(0) or old(arg) == old() and not checkcaller() then
+			return nil
+		end
+		return old(arg)
+	end)
+end
+
 spawn(function()
     local getgc = getgc or debug.getgc
     local hookfunction = hookfunction
