@@ -126,3 +126,4 @@ spawn(function()
 end)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua",true))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Tesker-103/dfe4521b3d644fd1797d1d218eb42b76/raw/9a7d8541312972ddf686abf67fccdfd98db97b95/Securedexbytesker103"))()
